@@ -19,8 +19,6 @@ An automated, chemical-free insect trapping system inspired by the natural mecha
 - Servo Motors
 - DC Fans
 - MOSFETs
-- Stepper Motor
-- L298N Motor Driver
 - Limit Switch
 - Collection Box
 
